@@ -17,6 +17,6 @@
     "mysql": "git://github.com/felixge/node-mysql",
     "async": "~1.4.2",
     "here": "0.0.2",
-    "sequelize": "~3.11.0"
+    "sequelize": "~6.3.4"
   }
 }
